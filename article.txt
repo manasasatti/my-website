@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Article</title>
+</head>
+<body>
+     <article>
+            <h1>Benefits of Organic Farming</h1>
+            <p>Organic farming uses natural methods to grow food without chemicals...</p>
+    </article>
+</body>
+</html>
